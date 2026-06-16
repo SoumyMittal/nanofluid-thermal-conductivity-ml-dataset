@@ -1,5 +1,12 @@
 # Unified Thermal Conductivity Dataset of Nanofluids
 
+## Dataset Preview
+
+| Nanoparticle | BaseFluid | Temperature (°C) | Particle Size (nm) | TC (W/mK) |
+|-------------|------------|-------------------|-------------------|-----------|
+| Al₂O₃ | Water | 25 | 30 | 0.67 |
+| CuO | EG | 40 | 50 | 0.82 |
+
 ## Overview
 
 The **Unified Thermal Conductivity Dataset of Nanofluids** is a machine-learning-ready dataset containing **987 experimental records** collected and consolidated from multiple peer-reviewed nanofluid studies.
